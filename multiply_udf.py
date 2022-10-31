@@ -1,3 +1,6 @@
+vim mulitpy_udf.py
+
+
 import sys
                                                                                                                                               
 for line in sys.stdin:
